@@ -1,0 +1,8 @@
+Appium_Framework\PageObjects\android\FormPage.class
+utils\AppiumUtils.class
+utils\IOSActions.class
+utils\AndroidActions.class
+Appium_Framework\PageObjects\android\CartPage.class
+Appium_Framework\PageObjects\ios\AlertViews.class
+Appium_Framework\PageObjects\android\ProductCatalogue.class
+Appium_Framework\PageObjects\ios\HomePage.class
