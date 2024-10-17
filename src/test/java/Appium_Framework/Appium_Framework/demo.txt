@@ -1,5 +1,12 @@
-int a = 5
-int b = 6
-int c = a + b
+int a = 5;
+int b = 6;
+int c = a + b;
+
+int d = a * b;
+int e = a - b;
+int f = a/b;
 
 System.out.println("Addition of a + b = " + c);
+System.out.println("Multiple of a * b = " + d);
+System.out.println("Subtraction of a - b = " + e);
+System.out.println("dividing of a / b = " + f);
